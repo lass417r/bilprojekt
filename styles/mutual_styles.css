@@ -17,4 +17,10 @@ h2 {
 }
 
 p {
+  color: green;
+  font-size: 2rem;
+}
+
+footer {
+  background-color: red;
 }
