@@ -3,6 +3,10 @@ body {
   max-width: 100%;
 }
 
+video {
+  max-width: 100%;
+}
+
 h1 {
   font-size: large;
   font-stretch: expanded;
